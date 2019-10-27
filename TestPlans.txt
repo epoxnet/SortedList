@@ -1,0 +1,14 @@
+CASE1:
+
+Expecting to Print out (" Expected output: 10, 9 ,8 ,7 ,6" )
+Comparing Integers
+
+CASE2:
+
+Expecting to Print out (" Expected Output: 34.3455, 25, 22.1, 3.3, 3.14299" )
+Comaping Doubles
+
+CASE3:
+
+Expecting to print out ( " Expected Output: zero, test, hello, fun, alpha" )
+Comparing Strings

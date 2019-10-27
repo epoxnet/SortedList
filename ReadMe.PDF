@@ -1,0 +1,20 @@
+This Program is Using Nodes to create a sorted list .
+My program is included sorted-list.h for header, a 
+sorted-list.c, and main.c .
+
+I debugged and fixed all the problems on sorted-list.h 
+and sorted-list.c, but unfortunatly, I couldn't figure 
+out 1 Error on my Main.c on Line(75). 
+
+My Main.c is included 3 cases /
+Case(1)- is going to look at the Int.
+Case(2)- is going to look at the Double.
+Case(3)- is going to look at the Strings.
+Case(-1)- is generated for Quiting the program.
+Default- is generated for Bad input Errors.
+
+
+
+
+
+
